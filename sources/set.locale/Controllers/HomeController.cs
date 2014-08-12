@@ -8,6 +8,7 @@ using set.locale.Models;
 //Comment added by sankar
 namespace set.locale.Controllers
 {
+    //Added by sankar to verify pull request
     public class HomeController : BaseController
     {
         private readonly IUserService _userService;
