@@ -5,6 +5,7 @@ using set.locale.Data.Services;
 using set.locale.Helpers;
 using set.locale.Models;
 
+//Comment added by sankar
 namespace set.locale.Controllers
 {
     public class HomeController : BaseController
