@@ -8,8 +8,10 @@ using set.locale.Data.Services;
 using set.locale.Helpers;
 using set.locale.Models;
 
+//Comments added by sankar
 namespace set.locale.Controllers
 {
+    //Comments added by sankar 
     public class UserController : BaseController
     {
         private readonly IAuthService _authService;
